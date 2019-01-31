@@ -2,7 +2,8 @@
   "meta": {
     "username": "YakinRubaiat",
     "repositoryName": "YakinRubaiat.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "yaken.rubaiat11@gmail.com",
+    "github": "YakinRubaiat",
+    "twitter": "https://twitter.com/YakinRubaiat",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
