@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   },
   "urls": {
     "site": "https://YakinRubaiat.github.io",
     "hubpress": "https://yakinrubaiat.github.io",
-    "theme": "//YakinRubaiat.github.io/themes/saga",
+    "theme": "//YakinRubaiat.github.io/themes/uno-zen",
     "images": "https://YakinRubaiat.github.io/images"
   },
   "initialisationConfigComponent": {
