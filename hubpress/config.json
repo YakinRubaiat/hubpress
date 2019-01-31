@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://YakinRubaiat.github.io",
     "hubpress": "https://yakinrubaiat.github.io",
-    "theme": "//YakinRubaiat.github.io/themes/casper",
+    "theme": "//YakinRubaiat.github.io/themes/ghostium",
     "images": "https://YakinRubaiat.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -29,7 +29,7 @@
     ]
   },
   "site": {
-    "title": "",
+    "title": "Yakin Rubaiat Blog",
     "description": "",
     "logo": "",
     "cover": "",
