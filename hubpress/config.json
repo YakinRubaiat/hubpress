@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://YakinRubaiat.github.io",
     "hubpress": "https://yakinrubaiat.github.io",
-    "theme": "//YakinRubaiat.github.io/themes/uno-zen",
+    "theme": "//YakinRubaiat.github.io/themes/uno",
     "images": "https://YakinRubaiat.github.io/images"
   },
   "initialisationConfigComponent": {
