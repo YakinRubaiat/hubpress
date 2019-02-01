@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "uno"
   },
   "urls": {
     "site": "https://YakinRubaiat.github.io",
     "hubpress": "https://yakinrubaiat.github.io",
-    "theme": "//YakinRubaiat.github.io/themes/uno",
+    "theme": "//YakinRubaiat.github.io/themes/roon",
     "images": "https://YakinRubaiat.github.io/images"
   },
   "initialisationConfigComponent": {
