@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "https://YakinRubaiat.github.io",
     "hubpress": "https://yakinrubaiat.github.io",
-    "theme": "//YakinRubaiat.github.io/themes/uno",
+    "theme": "//YakinRubaiat.github.io/themes/ichi",
     "images": "https://YakinRubaiat.github.io/images"
   },
   "initialisationConfigComponent": {
