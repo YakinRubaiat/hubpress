@@ -1,0 +1,17 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= A Test Post
+
+Hello This is a test post again.klllllllk
+.[1] The storm tracked parallel to the coast of Cuba before veering northward and crossing the Florida Keys, where it intensified into Tropical Storm Marco about 35 mi (55 km) south-southeast of Key West, Florida.[2]
+
+
+Tropical Storm Marco at peak intensity straddling the west coast of Florida on October 11
+After passing midway between Key West and the Dry Tortugas, Tropical Storm Marco adopted a steady northward track and quickly intensified, reaching peak winds of 65 mph (100 km/h) on October 11, while still southwest of Englewood, Florida. The center of the storm continued on its off-shore parallel for another six hours after reaching its peak intensity, until it reached a position about six mi (10 km) west of Bradenton Beach; although the center of the storm remained offshore, much of its circulation was over land.[2] Initially the storm still was forecast to move ashore between Fort Myers and Sarasota.[4] However, the cyclone continued its northward trajectory, the center remaining offshore, and it weakened to a tropical depression prior to making landfall near Cedar Key early on October 12.[2][5]
+
+After landfall, the cyclone accelerated in forward speed northward, weakening in intensity, and, by 1200 UTC on October 12, Marco became an extra-tropical cyclone. It turned to the northeast and east through South Carolina, following behind Hurricane Lili to its northeast.[3] For a time, the system's proximity to Lili resulted in hints of the Fujiwhara effect, in which two tropical cyclone appear to rotate around each other.[6] The cold front that absorbed the weakening low was to the storm's north on October 13,[2] though moisture from the remnants of Marco dropped heavy rainfall across the southeast United States for another day.[3]
